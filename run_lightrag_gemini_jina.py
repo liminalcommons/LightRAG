@@ -14,6 +14,7 @@ try:
     import textract
 except ImportError:
     textract = None
+from dotenv import load_dotenv
 
 # LightRAG imports
 from lightrag.lightrag import LightRAG, QueryParam
@@ -22,9 +23,12 @@ from lightrag.llm.jina import jina_embed
 from lightrag.kg.shared_storage import initialize_pipeline_status
 from lightrag.utils import setup_logger
 
+# Load environment variables from .env file
+load_dotenv()
+
 # --- Jina Embedding Setup ---
-# Note: Replace with your actual Jina API Key if JINA_API_KEY is not set as an environment variable
-JINA_API_KEY = os.getenv("JINA_API_KEY", "jina_c6322587415445b080c9b50b81ad349c5dd-MTCa0jIiRcbhHe3Nk71R4DQe")
+# Note: JINA_API_KEY is now loaded from the environment only
+JINA_API_KEY = os.getenv("JINA_API_KEY")
 JINA_EMBEDDING_DIM = 1024
 JINA_MAX_TOKEN_SIZE = 8192
 
@@ -46,8 +50,8 @@ jina_embedding_func = EmbeddingFunc(
 # --- End Jina Embedding Setup ---
 
 # --- Gemini LLM Setup ---
-# Note: Replace with your actual Gemini API Key if GEMINI_API_KEY is not set as an environment variable
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBi0jME5WSX9dGH-GWVYluNNnbSdJ6Pse4")
+# Note: GEMINI_API_KEY is now loaded from the environment only
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # print(f"DEBUG run_lightrag_gemini_jina.py: GEMINI_API_KEY as seen by os.getenv = {GEMINI_API_KEY}") # DEBUG LINE - Restored
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)

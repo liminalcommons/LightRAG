@@ -236,6 +236,7 @@ def create_app(args):
         pass
     if args.llm_binding == "gemini" or args.embedding_binding == "gemini":
         from lightrag.llm.gemini import gemini_complete, gemini_embed
+        from lightrag.llm.jina import jina_embed # Assuming this function exists/will be created
 
     # --- Define Helper Wrappers (indented correctly) ---
     async def openai_alike_model_complete(
@@ -374,6 +375,14 @@ def create_app(args):
                 texts,
                 model_name=args.embedding_model, # e.g., "models/embedding-001"
                 # api_key=os.getenv("GEMINI_API_KEY") # gemini_embed handles API key via genai.configure
+            )
+        elif args.embedding_binding == "jina":
+            # Assuming lightrag.llm.jina.jina_embed exists and handles API key via os.getenv("JINA_API_KEY")
+            # It would use args.embedding_model for the model name.
+            selected_embed_lambda = lambda texts: jina_embed(
+                texts,
+                embed_model=args.embedding_model, # e.g., "jina-clip-v2"
+                # host and api_key are typically handled internally by jina_embed using env vars
             )
         else:
             # This case should ideally be caught by argparse choices, but as a safeguard:

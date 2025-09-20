@@ -614,6 +614,8 @@ def load_json(file_name):
 
 
 def write_json(json_obj, file_name):
+    # Ensure the directory exists before writing the file
+    os.makedirs(os.path.dirname(file_name), exist_ok=True)
     with open(file_name, "w", encoding="utf-8") as f:
         json.dump(json_obj, f, indent=2, ensure_ascii=False)
 

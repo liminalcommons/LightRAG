@@ -1,0 +1,1973 @@
+Projects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+Acropolis OS – Autonomous Community AGI
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+fluran
+Project Owner
+Acropolis OS – Autonomous Community AGI
+Project for
+BGI Nexus 1
+Funding Awarded
+$50,000 USD
+Funding Pools
+Beneficial AI Solutions
+Milestones
+0 / 3 Completed
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (0)
+Project Team
+Overview
+Civilizations collapse from internal social fabric failure, not external forces. Acropolis OS provides open-source tools for effective community and organization self-organization, tackling this issue. By shaping community ontology, Acropolis OS establishes foundational identity, enabling cohesive structure and effective world engagement. Based on ontology-driven knowledge, Community AI Agents offer context-aware, adaptive services, enhancing member efficiency and information access. Autonomous Community AGI, Acropolis OS aims to foster seamless coordination, maximizing symbiotic intelligence – human and AI fusion for resilient, self-governing collectives.
+
+Proposal Description
+How Our Project Will Contribute To The Growth Of The Decentralized AI Platform
+Acropolis OS directly aids BGI Nexus: democratizing knowledge tools for communities mirrors Nexus inclusiveness. It builds collective intelligence & resilience at grassroots, supporting Nexus's wisdom gathering for a beneficial future. Empowering anyone, anywhere to contribute & shape AI ethics aligns with BGI's core, participatory mission, acting as a foundational block for their ambitious vision.
+
+Our Team
+Fluran: AI & Social Scientist
+
+Tech lead (LangChain, graphs, agents, vector database, GraphRag, knowledge base (neo4j)). Builds knowledge infrastructure for BGI network AI agent.
+
+Victor: Project Management
+
+Silicon Valley product expertise. Ensures actionable, scalable Acropolis OS for BGI's global participation.
+
+Team Goal: Open-source tools for community empowerment & beneficial future, directly supporting BGI mission.
+
+AI services (New or Existing)
+neo4j
+Type
+New AI service
+
+Purpose
+To represent community knowledge as interconnected relationships enabling advanced querying reasoning and discovery of insights from community data. It allows the system to understand the context and connections between different pieces of information going beyond simple keyword search to uncover deeper patterns and relationships within the community's collective knowledge.
+
+AI inputs
+Structured data extracted from community documents communication transcripts and agent profiles. This data is transformed into nodes and relationships within the Neo4j graph database based on the community's ontology.
+
+AI outputs
+A rich knowledge graph representing the community's information. This output is used by the Community AI Agent for context-aware question answering information retrieval task routing and proactive support services. It provides structured knowledge for AI-driven insights and decision making
+
+Semantic Similarity Binary
+Type
+Existing AI Service (View)
+
+How it will be used
+We are using the SNET Semantic Similarity Binary service to analyze text snippets within the Acropolis OS knowledge base and community interactions. This allows us to identify semantically similar user queries group related discussions or documents and improve the accuracy of information retrieval and question answering by understanding the meaning of text beyond keywords.
+
+The core problem we are aiming to solve
+Internal Coordination Failure
+Civilizations collapse cyclically,
+
+not due to a lack of resources or technologies, but due to an internal failure of the social fabric.
+
+Civilizations collapse when they fail to govern themselves, to adapt, and to defend themselves from external threats.
+
+Think of it as a human being – when our body and mind fail to maintain themselves,
+
+they cannot adapt or defend.
+
+how will we overcome this perennial problem?
+while AI is not the solution to everything,
+however, it is a key
+
+and with AI, the Community, Companies, Society, Organizations can be more self-aware to adapt.
+
+Our specific solution to this problem
+ 
+
+Symbiotic Intelligence
+
+Self-governance requires self-awareness.
+
+A sense of self is crucial for human thriving. Similarly, organizations need self-understanding to succeed.
+
+Ontology:
+
+Human beings coordinate through language, co-creating reality by sharing concepts and navigating the world through shared truths.
+
+Shaping the ontology of a community brings clarity and allows humans and AI agents to work together symbiotically.
+
+Through shaping ontology, the community emerges.
+
+Knowledge Base:
+
+By leveraging vector databases, knowledge graphs (e.g., neo4j), and cost-effective LLMs like gpt-4o-mini or Gemini Flash, communities can establish both shared and individual knowledge bases.
+
+Human knowledge is inherently limited in scope. In contrast, AI can track every event within the community and the knowledge generated by its members.
+
+ 
+
+Community AI Agent:
+
+A Community AI Agent, possessing omni-awareness of its community and retrieving knowledge context from the community knowledge base, offers services.
+
+It can answer user inquiries.
+
+It can identify and contact relevant agents or humans to handle specific tasks.
+
+ 
+
+ 
+
+Collecting Data:
+
+Collecting transcripts, messages, texts, and documents, agents profile(both for human and AI agents) is crucial for establishing an ontological ground.
+
+This project offers solutions for both centralized and decentralized knowledge base ownership.
+
+ 
+
+ 
+
+Platforms:
+
+Communication integration:
+
+Video: Zoom, WebRTC
+
+Chat: Discord, Telegram
+
+database Integration:
+
+databasae: Coda, Notion
+
+Project details
+Acropolis OS: Building Resilient Communities Through Symbiotic Intelligence
+
+Civilizations often decline not from resource lack, but internal failures of social fabric and self-governance. Communities losing self-understanding, coordination, adaptability, and informed decision-making become vulnerable. This internal breakdown, like a body losing vital system maintenance, underlies civilizational decline, surpassing mere resource or technology issues.
+
+Acropolis OS, an open-source project, addresses this. It offers a solution: strengthening community governance and resilience via symbiotic intelligence. By pairing AI with human ingenuity, Acropolis OS equips communities – from local groups to businesses – to thrive in a complex, changing world.
+
+The Core Problem: Internal Governance Failure
+
+Acropolis OS tackles systemic self-governance failure. This manifests as:
+
+Erosion of Shared Understanding: Lost collective memory & identity. Fragmented, inaccessible knowledge. Fading wisdom, hindering learning & adaptation.
+
+Breakdown of Communication & Coordination: Lack of common language, misunderstandings rife. Disjointed efforts, wasted resources, misaligned goals.
+
+Diminished Adaptive Capacity: Struggle processing info, identifying threats/opportunities, responding effectively. Slow adaptation, vulnerability.
+
+Compromised Decision-Making: Decisions based on incomplete data, biases. Suboptimal choices, eroded trust, weakened governance.
+
+These interconnected issues reflect internal governance breakdown. Acropolis OS provides tools to rebuild community self-awareness, improve communication, enhance adaptability, and enable informed decisions – fostering resilience and enabling thriving.
+
+Acropolis OS: A Symbiotic Intelligence Solution
+
+Acropolis OS is open-source, built on Ontology, Knowledge Base, and Community AI Agent synergy to empower communities:
+
+1. Ontology: Shaping Shared Reality
+
+The core is a community ontology: a collaborative, structured representation of key concepts, relationships, and community knowledge. It's a shared "mental map" clarifying:
+
+Concepts: Defining key terms, roles, entities (e.g., "member," "project," "skill").
+
+Relationships: Connecting concepts (e.g., "member 'has a' skill").
+
+Properties: Describing concept attributes (e.g., "project" 'status,' 'deadline').
+
+Ontology building is collaborative & community-driven. Acropolis OS provides tools (visual editors, semantic web interfaces) for this process.
+
+Ontology Benefits:
+
+Enhanced Clarity: Reduced ambiguity in communication.
+
+Improved Discovery: Efficient knowledge base search via ontological terms.
+
+AI Understanding: Structured language for AI Agent, enabling effective services.
+
+Shared Mental Model: Deeper collective understanding of community structure & goals.
+
+2. Knowledge Base: Collective Memory & Awareness
+
+Acropolis OS uses cost-effective tech for a powerful community knowledge base: collective memory structured by ontology.
+
+Technology Stack:
+
+Vector Databases (e.g., ChromaDB): Semantic search based on meaning.
+
+Knowledge Graphs (e.g., Neo4j): Relational knowledge representation, pattern discovery.
+
+Runnable on Cost-Effective LLMs (e.g., gpt-4o-mini, gemini flash, Deepseek, llama3): effective operation on low-cost LLMs, Model-agnostic design.
+
+Retrieval-Augmented Generation with knowledge graph (GraphRAG): Contextually accurate AI responses from knowledge base. aka second Brain
+
+Knowledge Base Content:
+
+Community docs, meeting minutes, plans.
+
+Communication transcripts (Discord, Telegram, Zoom - consented, anonymized).
+
+Agent profiles (human & AI) - skills, roles.
+
+Event & activity records - community history.
+
+Offers centralized/decentralized options for privacy.
+
+3. Community AI Agent: Proactive Intelligence & Services
+
+The Community AI Agent is proactive intelligence, using ontology & knowledge base to aid members.
+
+Agent Capabilities:
+
+Omni-Awareness: Comprehensive community understanding from knowledge base & (optional) real-time data.
+
+Intelligent Services:
+
+Question Answering: Knowledge-based answers to community queries.
+
+Information Retrieval: Fast access to relevant information & experts.
+
+Task Routing: Connects members based on skills.
+
+Proactive Support: Identifies emerging issues & knowledge gaps.
+
+Onboarding Assistance: Guides new members.
+
+Agent-framework agnostic for flexibility.
+
+Data Collection & Ethics
+
+Ethical data collection is key:
+
+Transparent Sources: Platforms like Zoom, Discord, etc. (consent-based).
+
+Ethics & Privacy: Anonymization, user consent, clear policies.
+
+Agent Profiling (Ethical): For personalized AI services, with privacy safeguards.
+
+Platform Integration
+
+Focus on common platforms: Zoom, Discord, Telegram, Coda, Notion for accessibility. Future API integrations planned.
+
+Democratizing Power: Open Source & BGI Nexus
+
+Acropolis OS is open-source, democratizing knowledge tools, unlike enterprise solutions. This aligns with BGI Nexus's "anyone, anywhere" vision. Acropolis OS enables communities to build "collective intelligence," enhance agency, contributing to a resilient, collaborative future, and supporting BGI's inclusive, wisdom-driven mission for humankind.
+
+Vision: Resilient Communities
+
+Acropolis OS envisions self-governing, resilient communities navigating complexity via symbiotic intelligence. By strengthening social fabric internally, we build a more stable, adaptable future. Acropolis OS makes communities, and societies, robust, intelligent, and capable for the 21st century and beyond.
+
+Needed resources
+While achievable with our current team, Acropolis OS quality & speed would be boosted by:
+
+ 
+
+UX/UI Designer: For intuitive, user-friendly community interfaces.
+
+Platform Integration Dev: API expert (Zoom, Discord etc.) for seamless connection.
+
+AI Agent Framework Expert: To advance agent capabilities & intelligence.
+
+Frontend Developer: To build polished & accessible user experiences.
+
+Existing resources
+Our existing resources include:
+
+Core Team Expertise: Our team already possesses skills in AI development (Python, LangChain, knowledge graphs, vector DBs), social science, and project management.
+
+Open Source Libraries & Frameworks: We leverage freely available tools like LangChain, Neo4j, ChromaDB, and various LLMs, reducing development costs.
+
+Cloud Computing (Free Tier): We can utilize free tiers of cloud platforms for initial development and hosting, still sufficient funding will help us to test out our Program at scale.
+
+Community Platforms (Existing): We plan to initially integrate with intellectual Community called Metamodernist, liminal web, who are most intellectually diverse Community, researching "we" space Community sociotechnologies. check out here - MetaCrisis Communities,
+
+
+Open Source Licensing
+MIT - Massachusetts Institute of Technology License
+Additional videos
+What the Heck is Palantir’s Ontology?
+
+Game B Dialogos w/ Jim Rutt, Jordan Hall, Tyson Yunkaporta, and Daniel Schmachtenberger
+
+GraphRAG vs. Traditional RAG: Higher Accuracy & Insight with LLM
+
+ 
+
+Describe the particulars.
+Carolina carvalho and Ben smith
+
+Show Less
+Activity Summary
+Milestones
+3
+Total
+Discussion
+0
+Total Comments
+Reviews
+4
+Total Posted
+Project Team
+2
+Total People
+Proposal Video
+Placeholder for Spotlight Day Pitch-presentations. Video's will be added by the DF team when available.
+
+Group Expert Rating (Final)
+Overall
+
+4.2
+    
+Impact
+
+4.2
+Innovation
+
+4.2
+The Acropolis OS project combines symbiotic intelligence with knowledge graphs and LLMs to address civilizational challenges. It is aligned with the grant round criteria through its ethical, open-source, and scalable approach. The proposal emphasizes transparency, inclusivity, and decentralized knowledge ownership, giving communities tools for self-governance. Data collection and ethics methods ensure the Autonomous Community AGI benefits communities while protecting individual privacy. Acropolis OS is open source, creating opportunities for broader participation in positive social impact. The team demonstrates awareness of their capabilities by including existing resources in the proposal. The team offer a creative combination of blockchain technology with AI to improve carbon market efficiency and transparency, automating effect verification and ensuring secure reporting - aligning with goals for environmentally sustainable AI development.
+
+Read More
+Expert Review 1
+The data collection & ethics methods that are going to be applied for the project will make sure that the model Autonomous Community AGI bring benefits to the community, strengthening community governance but still protect data privacy of individuals in the community. The fact that Acropolis OS is open-source emphasizes the involvement of communities, democratizing knowledge and tech tools. This will create positive impacts on society by opening a chance for everyone to actually participate in and become a part of helping the world become a better place. Existing resources have been included in the proposal, indicating that the team acknowledge their capability.
+
+Read More
+Expert Review 2
+The Impact Evaluation Foundation suggests a creative way to combine blockchain technology with artificial intelligence to improve the efficiency and transparency of carbon markets. This research tackles important issues in climate financing by automating effect verification and guaranteeing secure reporting, which is in line with the goal of advancing advantageous AI for environmental sustainability.
+
+Expert Review 3
+The Acropolis OS project, which uses symbiotic intelligence and revolutionary innovations like knowledge graphs and LLMs to reverse civilizational collapse, is incredibly innovative and significant, and it fits in perfectly with the BGI Nexus Deep Funding criterion. It is ethically put up, open-source, and scalable, emphasizing transparency, inclusivity, and decentralized knowledge ownership to provide communities with the means to govern themselves.
+
+Read More
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie PolicyProjects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+GlucoseDAO
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+Livia_Zaharia
+Project Owner
+GlucoseDAO
+Project for
+BGI Nexus 1
+Funding Awarded
+$50,000 USD
+Funding Pools
+Beneficial AI Solutions
+Milestones
+0 / 5 Completed
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (0)
+Project Team
+Overview
+GlucoseDAO is a decentralized organization that enables diabetics and others with continuous glucose monitors (CGMs) to get accurate glucose predictions at least one hour in advance. For millions of diabetic people, such predictions are crucial to planning their everyday lives (when to inject, act, or do sports). It is also helpful for healthy people as it allows them to optimize their diet and exercise routines based on glucose patterns. What we are developing: -Extension of GlucoBench benchmark that will also measure human performance -Open-source ML model to predict glucose and related health outcomes -ML service and app that everybody can use easily
+
+Proposal Description
+How Our Project Will Contribute To The Growth Of The Decentralized AI Platform
+17 million people worldwide regularly use CGMs , and this number will double pretty soon. For diabetics (like me) it is a life-saving device that allows making decisions on when to inject, what to eat, and exercise. Even though some glucose ML models exist, most of them are not open and get stuck in companies and academia. So, what ordinary CGM users can do now is only look at the growth/decline trends in numbers. We want CGM users to benefit from the power of AI! 
+
+Our Team
+The team is led by a diabetic with expert open-source & AI developers. Both the skills and the common interest of the team is in line with our project. But probably, the most important of all is that it was started by someone who has skin in the game.
+
+AI services (New or Existing)
+Glucose prediction model
+Type
+New AI service
+
+Purpose
+To predict glucose variations 60 minutes into the future. It will require users to provide a minimum amount of data to fine tune for further purposes
+
+AI inputs
+It should be able to deal with data in csv format obtain via uploading or API call
+
+AI outputs
+Predicted time series with confidence estimations. In the future we can also allow sending the action (i.e. eat ice cream inject a specific dosage of insulin etc.) to allow users to estimate how glucose will react
+
+The core problem we are aiming to solve
+Millions of CGM users face a gap: current devices only provide real-time readings and growth/decline projection, leaving us unprepared for sudden fluctuations that affect our meals, exercise, and insulin management. Something that I faced as diabetic. Meanwhile, many advanced machine learning models remain locked in academic research and proprietary systems, inaccessible to everyday users. 
+
+We want to change this by providing an open-source ecosystem with an open-source+openweights model, improved Glucobench benchmark and AI service that various health apps can integrate.
+
+Our specific solution to this problem
+We will develop Glucose Forecaster AI service to provide one-hour-ahead glucose predictions and tailored lifestyle suggestions. Instead of simply displaying current values and trends, our solution offers actionable forecasts to help users better plan meals, exercise, and medication.
+
+Before deploying our model, we face two main challenges. First, our machine learning model must outperform human predictions. Although 45 glucose prediction models exist, most are locked in academia or proprietary systems—and little research has examined how well people can forecast their own glucose levels. To address this, we are developing this game and will make a mini-study to collect human prediction data and pinpoint common errors to improve benchmarking.
+
+Second, we must build a uniform, open-source dataset and preprocessing pipeline. While free CGM datasets are available—such as Awesome-CGM , created by our adviser—we still need an automated system that combines these with user-contributed data.
+
+Third, we will test how taking a foundational model and fine-tuning it on personal data can improve prediction.
+
+We’ve considered developing our app, but tapping into the extensive user base of existing health apps can be an effective strategy to reach more people. Once these milestones are reached, we will fine-tune our Gluformer-based model (and explore additional options) and wrap it in AI service to make advanced glucose forecasting accessible to everyone.
+
+Project details
+I want to enable diabetics and others with continuous glucose monitors (CGMs) to get accurate glucose predictions at least one hour in advance. I also want researchers and citizen scientists to use our public dataset and fine-tune it with their own data.
+
+Currently, about 17 million people worldwide use CGMs, but they lack long-term predictions. For diabetics this is a major problem as you need predictions to plan food, exercise, and insulin injections. Even healthy users of CGMs need predictive models for diet and exercise optimization. To provide such models, we need to pre-train them on CGM data first and then fine-tune them for individuals. Unfortunately, most data is siloed by companies and hospitals, with public datasets barely comparable to my 5 years of data. I am leading an initiative to create a public open-source anonymized dataset, pretrain a model, and provide a service for personalized fine-tuning that can be integrated into various apps.
+
+I started the project as a personal endeavor working on it in my free time; Gradually, people joined me. At some point I got in touch with Renat Sergazinov, a core developer of GlucoBench  and Gluformer prediction model. Based on my feedback, some improvements to GlucoBench have been made. I also trained my model based on the Gluformer architecture, and we also discussed including our future citizen-science public CGM dataset in the GlucoBench.
+
+In the summer of 2024, I contributed to the LongevityGenie open-source project. I integrated my glucose prediction model into their AI assistant, and it was presented as a poster at the ARDD conference.
+
+The Glucose project started with my ideas, but my lack of technical skills was an issue since my studies lie in Architecture, not biology or programming—even though being a diabetic glucose analysis is second nature to me. To improve, I have been taking online courses, attending biomedical conferences and contributing to other open-source projects. 
+
+After ARDD, I left my job as a senior architect and focused on improving my skills by contributing to the Longevity Genie open-source project and volunteering for the IBIMA Institute at Rostock Medical University. This gave me some practical skills and advice. 
+
+Later, I applied for decentralized science funding (GG21 funding round) and got a microgrant of 2K USD. It was the starting point for having some leeway to develop the project.
+
+The microgrant allowed me to attend the Zelar event, a pop-up city hosted in Berlin, where I met people versed in the fields of longevity, medicine, and AI. 
+
+A cohort of 7 people agreed to acquire glucose sensors and track their glucose and food intake. The study is not yet done, but we hope to find new data.
+
+Our endeavor also caused some interest from the longevity community, and HEALES organization invited me to Eurosymposium on Healthy Aging to co-teach a workshop. There, I also gave a presentation explaining the correlation between glucose values and longevity according to existing papers.
+
+Existing efforts vary. There are apps related to glucose monitoring, but there are variations in terms of usage and method.
+
+Academic glucose prediction models (mostly non-usable). Most of them have no weights or public validation data, with rare exceptions (like Glucobench). Others often lacked more easy-to-set-up environments, open weights, or open tests, which renders them primarily useless for most potential users.
+
+ 
+
+Usable open-source apps devoted to adjacent but slightly different use cases
+Such apps comprise either prediction models valid only to specific subpopulations at specific conditions or apps like the Xdrip app that were developed for a particular need—to connect any sensor with any phone. Such apps are very popular, robust, and easy to use but do not have universal glucose prediction models.
+
+ 
+
+Apps of the CGM manufacturers. Despite having a huge amount of data, CGM producers provide only basic stats like time in range, charges, and (de)acceleration. Moreover, Dexcom, Libre, and other manufacturers country– and vendor-lock users, creating huge problems. Most of them are user-unfriendly and have 1-3 star ratings, but users still have to use them because of vendor locks.
+
+ 
+
+Generic health commercial apps with CGM support. There are commercial apps that aggregate various types of data, including CGM data. However, due to their lack of specialization, they do not provide any analysis beyond self-evident things like “time in range” and (de)acceleration of glucose.
+
+ 
+
+CGM data collection app. Apps allow collections of CGM data but lack prediction capacities. It is the one where the user-provided data is free of charge (monetarily), but the company that receives it sells it further to pharma companies to provide for their cost. Users have some benefits- granted by the lack of default apps to do so- such as exporting reports for the doctors to read or a secondary place to store their data in a more accessible way- but at the end of the day, they do not receive any payment back.
+
+
+In comparison with all the above categories, we:
+
+Make things open (including source code, weights, and anonymized dataset)
+
+
+integrate the models into Glucobench (public benchmark)
+
+
+provide a user-friendly interface that non-technical people can use.
+
+
+Results are specific, not cohort based, they reference an individual and a very specific value- not some general recommendation.
+
+
+Regarding positioning in a global setting, if we look into the academic space, what is striking is that academia is focused on publishing and not on solving problems of the end users or giving citizens and companies something (public datasets and open-weight models) to improve on which is clearly stated by the latest literature review in GlucoBench paper: “We emphasize that, among the 45 methods identified in Table 1, a staggering 38 works do not offer publicly available implementations.” - 
+
+( https://doi.org/10.48550/arXiv.2410.05780 ). I want to develop something that people will really use and that researchers can improve upon.
+
+ 
+
+Our project aims to be open source, at least the foundational model. If fine-tuning or individual training will involve significant cost we will also consider additional payments to cover computational resources, but generally would try to avoid making the user pay.
+
+For example here the models we have primarily trained can be accessed and here are the datasets  which are publicly accessible.
+We also have the huggingfaceUI interface where I tried the first snapshot of the project, this is still a work-in-progress.
+
+There are several technical challenges that I expect to address, or at least improve upon, during the project:
+
+1. Noisy and inconsistent data
+
+The first challenge is that data from CGM is only sometimes consistent. Many covariates (food, sports, etc.) often need to be included as it is hard for the users to track everything constantly. Different devices have biases and usually get decalibrated (especially after sensor switch/reset). Such a problem is typically solved by pre-training. Training a good CGM foundational model can make it robust to missing values and even let it operate without covariates, purely on glucose values.
+
+ 
+
+2. Model Customization: Generic vs. Individual
+
+Studies on Gluformer models show that pre-training can help, but it’s still debated whether representations learned from large datasets are better than training directly on individual data. Real-world performance often differs from controlled clinical studies, adding to this uncertainty.
+
+We take an open-minded approach: if foundational models don’t perform well enough, we’ll shift our focus to improving the experience for training fully personalized models.
+
+ 
+
+3.User Accessibility
+From a user's perspective, it can be frustrating to have access to a commercial product that lacks key features like glucose prediction. Users who are not skilled in programming face significant barriers to using current prediction tools, which require running scripts, training models, and performing inferences.
+Our goal is to simplify this process by providing a user-friendly web interface. Users will be able to create an account, upload their data files, and receive predictions—all with basic browser skills, without needing to write any code.
+
+ 
+
+4. Data Standardization and Integration
+
+Different manufacturers use different data formats, which complicates data centralization and standardization. The same glucose value can be formatted in multiple ways, which creates challenges for centralized training and analysis. We aim to address this issue by creating standardized conversion methods that can handle different data inputs from various sensors.
+
+ 
+
+5. GDPR Compliance and Data Security
+
+Since we are dealing with personal health data, ensuring compliance with data privacy regulations like GDPR is a critical challenge. We are reviewing  decentralized approaches like SOLID PODs , but we must also consider how to align this with the simplicity goals outlined in Challenge 3. 
+
+The project stands out due to its open-source, user-centered approach, emphasizing accessibility, community collaboration, and transparency. Unlike other projects that are either overly technical or proprietary, it balances research and utility, offering actionable glucose predictions while allowing users to contribute to a public dataset. The open-source nature provides a valuable platform for both the diabetic community and researchers, fostering a collaborative ecosystem that bridges gaps left by existing solutions.
+
+Needed resources
+-members for community management
+
+-members for promoting and social media
+
+-members for front end coding
+
+-members for analysing data
+
+-GPU resources for inference/training
+
+Existing resources
+We can use Systems Biology of Aging Group server to host Web-ui, however it does not have GPU-s for training.
+
+Open Source Licensing
+Apache License
+We use Apache License for our code ( published at https://github.com/GlucoseDAO ) and datasets (right now using huggingface for them). Foundational model, code for training and benchmarks will be open. At the same time, fine-tunnig for specific users will not be open by default and users will have agency over their personal data.
+
+Links and references
+GlucoBench ( https://github.com/IrinaStatsLab/GlucoBench  ,  https://doi.org/10.48550/arXiv.2410.05780 )
+
+Awesome CGM dataset collection
+
+
+Aging Research and Drug Discovery (ARDD) conference
+IBIMA Institute
+
+Zelar city 
+
+HEALES organization
+
+Eurosymposium on Healthy Aging  
+
+Studies on Gluformer models (arXiv:2408.11876, IEEE ICASSP 2023)
+
+ 
+
+Additional videos
+https://www.youtube.com/watch?app=desktop&v=uerUE6OOgPI
+
+recording of the talk given in Zelar- Berlin
+
+Describe the particulars.
+I have received information via email from the Longevity community informing about the existence of this funding.
+
+Show Less
+Activity Summary
+Milestones
+5
+Total
+Discussion
+0
+Total Comments
+Reviews
+5
+Total Posted
+Project Team
+8
+Total People
+Proposal Video
+
+GlucoseDAO
+1 April 2025
+Group Expert Rating (Final)
+Overall
+
+3.9
+    
+Impact
+
+4.0
+Innovation
+
+3.9
+GlucoseDAO presents an open-source, decentralized approach to diabetes management that leverages AI-driven personalized glucose predictions. The proposal effectively demonstrates how it addresses gaps in existing solutions through a community-driven model that prioritizes user empowerment and data transparency. This project has a strong alignment with BGI's vision, with safety and ethics considerations present in the proposal but also in the spirit of the project. It also includes a valuable detailed data collection methodology for fine-tuning machine learning models. Challenges remain in ensuring data consistency, protecting privacy in a decentralized environment, and maintaining long-term accessibility.. Overall, there is strong potential for meaningful impact in health technology with a clear focus on serving diabetic communities through collaborative innovation.
+
+Read More
+Expert Review 1
+The project offers open-source, its predictions to improve diabetes management, aligning with BGI’s vision. Its community-driven model has high impact potential, though challenges like data consistency and accessibility remain. It’s an innovative solution with strong potential in health-tech.
+
+Expert Review 2
+"The GlucoseDAO project is an open-source and decentralized approach, empowering users with personalized AI-driven glucose predictions. Its focus on community collaboration and transparency ensures ethical data use, though challenges remain in safeguarding privacy and data security. The proposal states: ""Our project aims to be open source, at least the foundational model. If fine-tuning or individual training will involve significant cost we will also consider additional payments to cover computational resources, but generally would try to avoid making the user pay."" To maintain the project's accessibility and maximize its benefits, it is crucial to eliminate any financial burden on users. A viable solution would be to integrate this initiative with other projects that offer computational resources for social good, ensuring sustainability without compromising its open and inclusive nature. "
+
+Read More
+Expert Review 3
+I think all requirements for Alignment with BGI Vision and Eafety & Ethics are covered. The former is clearly depicted all around the proposal. The later is subtler but we can see the cocern of the project leader with such issues in a couple of comments. Let me quote this one: "Since we are dealing with personal health data, ensuring compliance with data privacy regulations like GDPR is a critical challenge. We are reviewing decentralized approaches like SOLID PODs , but we must also consider how to align this with the simplicity goals outlined". Deep local impact to a specific community. The process to collect data in order to fine tune ML models is is well detailed and is, by itself, a great idea. The product features based in such fine-tuned models seems really useful and viable.
+
+Read More
+Expert Review 4
+The proposal lays out the need for this product well and details how it compares products already in existance, and demontrates how this solution fills a need which is not currently available.
+
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie PolicyProjects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+Reputo
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+Cyrille
+Project Owner
+Reputo
+Type
+Community RFP
+Funding Awarded
+$120,000 USD
+RFP Guidelines
+Reputation and Voting Weight System
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (0)
+Project Team
+Overview
+Meaningful community governance requires valuing expertise and commitment, not just financial stake. A well-designed reputation system translates diverse contributions into appropriate voting influence, recognizing value beyond token-holding. The TogetherCrew team, with experience building 40+ analytics and AI microservices (inc. reputation), will develop a modular, scalable reputation system for SingularityNET. Our approach integrates configurable computation strategies and weighted snapshots supported by a consent management layer. Our collaboration with the DDI hub research team will integrate DDI and ZKP solutions — delivering a transparent, privacy-preserving reputation system.
+
+RFP Guidelines
+Reputation and Voting Weight System
+Complete & Awarded
+Type
+Community RFP
+Total RFP Funding
+$140,000 USD
+Proposals
+1
+Awarded Projects
+1
+author-img
+Juana Attieh
+Dec. 19, 2024
+Preview
+The goal of this project is to develop functionality that will enable modular microservices that support data collection, scoring, and analytics functions as part of a reputation and voting weight system. This should include an architecture to allow for the integration of future microservices, an initial suite of key microservices, and a user interface that allows users to find and utilize various configurations of the microservices.  
+
+Proposal Description
+Company Name (if applicable)
+TogetherCrew
+Project details
+This RFP seeks proposals for a reputation and voting weight system, with a:
+
+Modular Microservices Architecture that supports the integration of various microservices responsible for data collection, scoring, and analytics.
+
+Initial Suite of Microservices that perform essential functions within the reputation system.
+
+User Interface to configure and utilize different microservice combinations, assign weightings, and apply these configurations to voting and decision-making processes.
+
+This aligns with the mission we have pursued as a team for 3 years to empower communities with their data. We’re not looking for a quick buck, we're intrinsically motivated to create the best possible system.
+
+We have significant experience building reputation systems that incorporate diverse metrics and inputs. We built and launched a reputation system using Discord, Telegram, and GitHub. Through this project, we researched and developed the technology to structure and integrate diverse data sources into a unified metric with an architecture based on microservices and stable at scale to serve 100+ communities using our technology. Leveraging this experience provides SingulairtyNET with the assurance of quality and expertise to deliver this RFP.
+
+We propose a highly customisable system, thanks to an architecture that emulates the proven design by snapshot.box. This architecture allows communities to create custom Reputation Strategies and use strategies created by others, thus providing customisation for advanced users, user-friendliness for new users (by leveraging templates), and a path for quick evolution through different groups experimenting and learning from each other.
+
+Reputation Strategies are defined as a set of Conditions, where the strategy creator selects for each Condition:
+
+A data service (e.g. Deep Funding proposal portal),
+
+The algorithm they want to apply to that service,
+
+The weight that the condition should hold.
+
+And optional: a validation strategy (e.g. a proof of humanity, blacklists, etc).
+
+This design provides SingulairtyNET with the flexibility needed to easily reconfigure the systems as needed, without requiring additional development every time.
+
+Following a microservices architecture, the system enables the administrator to create “Reputation Snapshot” i.e. a data snapshot of the inputs, the strategy, and the outputs (users’ reputation), at a specific point in time. These Reputation Snapshots can then be used by other services as input e.g. by the Voting Portal to calculate a final voting result.
+
+To advance privacy and security, the Reputation Snapshots are returned using a homomorphic encryption (allows computations to be performed on encrypted data without first having to decrypt it) and a proof attesting that the reputation was calculated matching the Conditions in the Strategy. As such, the reputation aggregation micro-service can compute the total reputation score without decrypting individual values, enabling privacy. Once complete, a proof is generated attesting that the Snapshot was taken according to the defined Strategy, enabling security.
+
+Taking into consideration all stakeholders, community members are also provided with a consent management dashboard, providing transparency and oversight into how their data is processed and given control to grant and revoke access to their data at a service level, enabling GDPR compliance. Additionally, community members can provide a decryption key to check their own scores on Snapshots, encouraging adoption.
+
+The services described can also implement the output of the research completed by the DDI hub research team, ensuring the system integrates well with SNET’s current and future infrastructure.
+
+In addition to the requested initial set of services, we include a final milestone, adding Telegram, Discord, and Github as reputation sources based on the work previously accomplished by the TogetherCrew team, thus providing superior value for money.
+
+In sum, our proposal leverages our significant experience in this area to provide a highly customisable, scalable, privacy-preserving, and future-proof reputation system.
+
+Architecture
+Modular microservices ecosystem built around core services that manage strategies and snapshots. The system leverages Temporal for workflow orchestration and includes services for Deep Funding integration, blockchain exploration, and user consent management. 
+
+We have built microservice architectures, data pipelines, analytics, and reputation scoring for several years, using multiple technologies (RabbitMQ, Airflow, Kafka, etc) to manage microservices. Based on this experience, we have moved to using Temporal  [https://temporal.io] as it provides:
+
+Managed workflow execution
+
+Durable state management
+
+Event-driven architecture
+
+Tracking and auditability
+
+Queues and scheduling
+
+Reliability and fault tolerance
+
+Temporal is an open source durable execution system used by: Uber, Mollie, Messari, Coinbase, Dapper Labs, Nvidia, Cloudflare, and many others.
+
+All standard security practices will be implemented on all services e.g. encryption and access controls.
+
+Core Components
+API Gateway
+Single entry point for all client requests. Responsible for routing requests to the appropriate microservice. Additionally, it would manage authentication (through DDI integration), authorisation (through our Consent Management service), and rate limiting. The API Gateway will be accessible both by users (through the UI) and by approved external systems.
+
+User interfaces
+Administrative dashboard
+Users can create community account(s), strategies, and generate snapshots.
+
+Service-specific views as required.
+
+Result visualization, associated with Temporal Run IDs for auditability and transparency.
+
+ Consent management dashboard
+Accessible to every community member.
+Visualize which services use their data.
+
+Grant and revoke consent to the processing of their data.
+
+Visualise their reputation (from snapshots).
+
+Services
+Strategy service
+Manages reputation calculation configurations
+
+Manages validation configurations
+
+CRUD workflows for strategies
+
+Strategy versioning and validation
+
+Parameterization support
+
+Snapshot service
+Executes a set of validation and reputation strategies against their data sources
+
+Responsible for aggregation and applying weights to strategy outputs
+
+CRUD workflows for snapshots
+
+Persists scores and generates proofs
+
+Deep Funding proposal portal service
+Ingests data from the proposal portal
+
+Processes data based on a given input strategy
+
+Make output data available for querying
+
+Deep Funding voting portal service
+Ingests data from a csv file
+
+Processes data based on a given input strategy
+
+Make output data available for querying
+
+Blockchain explorer services
+Integration with Flipside Crypto for SQL-based querying
+
+On-chain data retrieval
+
+Data normalization (balances could be returned as a % of a total to ensure compatibility with the rest of the reputation services)
+
+Processes data based on a given input strategy
+
+Make output data available for querying
+
+Consent management service
+Granular permission management
+
+Service-specific consent tracking
+
+Audit logging of data access
+
+Grant and revocation mechanisms
+
+Risks and mitigations
+Privacy & Data Security
+Unauthorized access to personal data: encryption at rest and in transit, consent-based access control, and ability to delete personal data upon request.
+
+Sybil Attacks & Manipulation
+Attempts to manipulate reputation scores: collaboration with the DDI hub research RFP. If an exploit is detected, the reputation and validation strategies can be updated to mitigate vulnerabilities.
+
+Algorithmic Bias
+Unintentionally favoring specific behaviors or demographics in reputation scoring: admins can configure scoring parameters and enable community-driven validation of reputation changes. Additionally, we suggest conducting regular audits of score distributions to help identify biases.
+
+System Reliability & Scalability
+High loads or unexpected spikes in traffic causing slowdowns or failures in reputation computation: Temporal for workflow orchestration, a scalable microservices architecture, and automated monitoring for performance optimization.
+
+Adoption & Usability
+Users finding the system confusing: intuitive UI, clear documentation, and onboarding support. We conduct user testing to identify pain points and refine the design.
+
+Governance & Disputes
+Users may contest reputation scores or request corrections: transparent proofs of reputation scoring for each snapshot.
+
+Team Capacity & Illness
+Team members’ illness: We are part of a broader alliance of closely aligned projects (RnDAO) with a community talent funnel and contributors already familiar with our codebase.
+
+Code Quality
+Issues in the aggregation of the multiple systems: code quality monitoring systems, CI/CD pipelines, automated testing, and QA practices with pair programming and structured usability testing.
+
+Project Management
+Delays and unforeseen challenges: previous experience (data pipelines, reputation scoring, etc) and best practices for software delivery (sprint planning, daily check-ins, retrospectives, code quality monitoring, testing and production environments, etc), refined over three years of collaboration.
+
+Dependencies
+Project closely connected to the DDI hub research RFP: working in close collaboration with the research team, ensuring alignment on Zero-Knowledge Proofs (ZKP), data-privacy, and identity integration. Modular architecture for easy integration.
+
+Open Source Licensing
+GNU GPL - GNU General Public License
+Links and references
+https://github.com/TogetherCrew/
+
+https://github.com/cyri113/points-temporal
+
+https://docs.snapshot.box/developer-guides/voting-strategy
+
+https://togethercrew.com/
+
+https://temporal.io/
+
+https://proposals.deepfunding.ai/graduated/accepted/7f1791e9-9b18-44f4-bf07-f7c99ca2cc67
+
+https://rndao.mirror.xyz/
+
+https://www.rndao.io/blog/post/what-is-a-web3-community-and-when-is-it-healthy
+
+Additional videos
+Our proposal stems from our 3-year mission empowering communities with data. We've implemented user reputation across Discord, Telegram, and GitHub, and previously delivered SingularityNET's Improved Reputation System. We believe governance extends beyond token-holding and want to demonstrate reputation-enabled use cases. We value privacy-preservation and seek to scale our research by applying our social network science expertise and graph theory closeness centrality algorithm to more platforms.
+
+Show Less
+Activity Summary
+Milestones
+10
+Total
+Discussion
+0
+Total Comments
+Reviews
+0
+Total Posted
+Project Team
+7
+Total People
+Proposal Video
+Not Avaliable Yet
+Check back later during the Feedback & Selection period for the RFP that is proposal is applied to.
+
+Reviews & Rating
+No Reviews Avaliable
+Check back later by refreshing the page.
+
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie PolicyProjects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+Think Inclusion Conferencing App
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+Remo Start
+Project Owner
+Think Inclusion Conferencing App
+Project for
+BGI Nexus 1
+Funding Awarded
+$45,000 USD
+Funding Pools
+Beneficial AI Solutions
+Milestones
+0 / 4 Completed
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (5)
+Project Team
+Overview
+Understanding the need for an inclusive and accessible space,institutions create accessible pathways for mobility impaired amongst us, sign language interpreters for audio impaired amongst us, and a host of other structures to accommodate these important members of our society.However it seems to be a lost art today as we moved to the digital space.We unconsciously neglected some demographics amongst us,we don't build technologies thinking actively about them: The visual, audio and speech impaired etc. are the ones mostly affected by this.Think Inclusion project creates AI tools helping this specific demographics with access, with an ai meeting app being the focus of this specific proposal
+
+Proposal Description
+How Our Project Will Contribute To The Growth Of The Decentralized AI Platform
+One of the goals of the BGI Nexus is to develop a platform that enables anyone, anywhere, to determine what a beneficial and inclusive future for humankind and the earth should be, this panders directly with the Think Incusion Conferencing app, because it sorts to bring a marginalised group of persons, in this case those with audio and speech impairment to the conventional digital space, creating a future of mutual shared digital space for them.
+
+Our Team
+Ubio Obu: Team Lead: CEO of Remostart and an AI Engineer with several publications in several Journals like IEEE, American Institute of Physics etc
+
+Ediyangha Ottoho: Full Stack Developer: More than 10 years of development experince and has worked on several top projects where some have morphed into Unicorns.
+
+Daniel Effiom: Project and Ethics Manager: He is the Chief operating officer at Remostart and has high value for ensuring projects are executed on time and following a high level of standards.
+
+AI services (New or Existing)
+Speech to text to Sign Language Model
+Type
+New AI service
+
+Purpose
+Coverts spoken words into text then into a sign language
+
+AI inputs
+Speech
+
+AI outputs
+Sign Language
+
+Sign Language to speech model
+Type
+New AI service
+
+Purpose
+Converts sig language to spoken words
+
+AI inputs
+Sign language
+
+AI outputs
+Speech
+
+Company Name (if applicable)
+Remostart
+The core problem we are aiming to solve
+The core problem we aim to solve is the digital exclusion of over 450 million people with speech impairments, as highlighted by WHO. While physical spaces have become more inclusive, digital platforms remain largely inaccessible, limiting participation in virtual interactions. Existing assistive tools are often prohibitively expensive, creating a significant barrier for millions who wish to be included and have their voices heard. This lack of affordable, inclusive technology deprives them of equal opportunities in communication, collaboration, and decision-making.
+
+Our specific solution to this problem
+Our solution is an AI-powered meeting app that bridges the communication gap for speech-impaired individuals by integrating a real-time sign language translator. The system converts spoken conversations into sign language, allowing the speech-impaired user to follow discussions effortlessly. In return, the user's sign language responses are translated into synthesized speech, enabling seamless participation as if they were speaking audibly.
+
+Key Features include:
+
+Interruptions & Turn-Taking: A gesture-based or on-screen prompt system ensures speech-impaired users can indicate when they want to contribute.
+Voice Representation: Users can select or customize an AI-generated voice that aligns with their identity.
+Multi-Mode Accessibility: The app supports text-based inputs for those preferring typing and integrates haptic feedback for additional engagement.
+Affordability & Scalability: Leveraging AI and open-source technologies keeps the solution cost-effective, ensuring wider adoption.
+Project details
+Solution Overview
+The Think Inclusion Meeting App is an innovative AI-powered communication platform designed to bridge the accessibility gap for individuals with speech impairments. It ensures full participation in virtual meetings by integrating a real-time sign language translator that converts spoken conversations into sign language and, in return, translates sign language responses into natural-sounding synthesized speech. This enables speech-impaired individuals to engage in discussions as seamlessly as their hearing and speaking counterparts.
+
+The system leverages computer vision, NLP, and speech synthesis to interpret gestures, process spoken language, and generate a smooth and natural audio output. It ensures that users can interrupt, respond, and contribute in meetings without being sidelined. Additionally, the tool provides multiple accessibility modes, including text-based input, haptic feedback, and voice customization, allowing users to personalize their communication experience.
+
+Technical Architecture
+The solution consists of multiple integrated components that work together to ensure a fluid, real-time experience:
+
+1. Input Layer
+Spoken Conversations: Captured via the app’s audio input, transcribed using an automatic speech recognition (ASR) model like Whisper or DeepSpeech.
+Sign Language Interpretation: The system uses real-time video analysis powered by computer vision models like OpenPose or MediaPipe to track hand movements and facial expressions. These inputs are processed using a sign language recognition model trained on datasets like ASLLVD (American Sign Language Video Dataset) and PHOENIX-2014T.
+Text Input: Users can type responses if they prefer a non-gesture-based approach.
+2. Processing Layer
+Natural Language Processing (NLP): Used to structure and interpret transcribed speech and sign language responses.
+Gesture-to-Text Translation: The AI model maps hand and facial movements to a structured text representation of sign language.
+Response Handling: Users can signal interruptions using predefined gestures or on-screen prompts, ensuring active participation.
+Voice Personalization: A text-to-speech (TTS) module, using models like Tacotron 2 or VITS, converts structured sign-language-translated text into a natural voice output.
+3. Output Layer
+Sign Language Visualization: The system renders a sign language avatar for hearing users who prefer to receive signed translations.
+AI-Generated Speech Output: The user’s translated text is synthesized into speech and broadcasted in the meeting.
+Haptic Feedback: Tactile notifications assist speech-impaired users in staying engaged.
+4. Cloud & Edge AI Infrastructure
+Cloud-Based AI Models: Speech-to-text, sign recognition, and text-to-speech are deployed on cloud inference servers for efficient processing.
+On-Device Computation: Edge AI models optimize low-latency processing on mobile devices for responsive real-time interactions.
+How It Works
+A spoken conversation begins. The app's ASR model transcribes speech in real time.
+Sign language translation initiates. The AI model converts the transcript into animated sign language, displayed on-screen for the speech-impaired participant.
+Speech-impaired users respond using sign language. The AI recognizes and translates these signs into structured text.
+Text is converted into speech. The system synthesizes the response into natural-sounding audio, allowing the speech-impaired individual to contribute seamlessly.
+Users can signal to speak. A gesture-based system or on-screen button allows them to indicate when they wish to participate.
+A fully inclusive meeting unfolds. The AI ensures all users, regardless of impairment, communicate in a natural and synchronized manner.
+Uniqueness of the Solution
+Bidirectional Accessibility: Most tools cater to one-way accessibility (e.g., speech-to-text), whereas this app ensures two-way communication by translating speech to sign language and sign language to speech.
+Customizable AI Voice Representation: Unlike traditional systems, users can select a preferred AI-generated voice for natural, personalized communication.
+Interrupt Mechanism for Equal Participation: A robust gesture-based interruption system ensures speech-impaired individuals can engage in discussions in real time.
+Affordable & Scalable: Many existing assistive tools are prohibitively expensive. By leveraging AI-driven, open-source components, this tool remains cost-effective and widely accessible.
+Social Impact
+Workplace Inclusion: Enables professionals with speech impairments to actively participate in meetings, fostering diverse and inclusive workplaces.
+Education & Learning: Improves accessibility in online classrooms, ensuring equitable learning opportunities.
+Telemedicine & Healthcare: Allows patients with speech impairments to communicate effectively with doctors in virtual consultations.
+Public & Civic Engagement: Promotes inclusivity in government meetings, public discussions, and community events, ensuring no voice goes unheard.
+Remote Work & Digital Communication: Bridges the gap for speech-impaired individuals in remote work settings, allowing them to engage in virtual teams without barriers.
+Ethical Considerations
+Bias in AI Training: Ensuring sign language models are trained on diverse datasets covering multiple sign languages (ASL, BSL, etc.) to prevent biases and misinterpretations.
+User Data Privacy: Implementing strict data encryption and edge AI processing to minimize storage and sharing of sensitive communication data.
+Cultural Sensitivity in Sign Language: Sign languages differ across regions, so the system must adapt dynamically based on the user's geographic and linguistic context.
+Consent-Based AI Interactions: Users must have full control over their data, AI-generated voice selection, and system preferences.
+Non-Disruptive Integration: The system should function as an assistive layer within existing meeting platforms (Zoom, Google Meet, Microsoft Teams), ensuring easy adoption
+Existing resources
+We have a repository of more than 5000 tech talents in our platform, who will act as beta testers for our solution, helping us improve the solution.
+
+Open Source Licensing
+MIT - Massachusetts Institute of Technology License
+Show Less
+Activity Summary
+Milestones
+4
+Total
+Discussion
+5
+Total Comments
+Reviews
+4
+Total Posted
+Project Team
+4
+Total People
+Proposal Video
+Placeholder for Spotlight Day Pitch-presentations. Video's will be added by the DF team when available.
+
+Group Expert Rating (Final)
+Overall
+
+4.3
+    
+Impact
+
+4.3
+Innovation
+
+4.2
+The Think Inclusion Conferencing App provides AI-powered translation between spoken and sign languages for online meetings. Developed by a team with proven success in remote staffing services, the proposal addresses a genuine need for speech-disabled individuals. It offers two-way interpretation, scalability, and an ethical approach to representing diverse sign languages. Challenges include ensuring accuracy across multiple sign languages and seamless integration with mainstream platforms, but the project's technical foundation appears sound and well-researched.
+
+Read More
+Expert Review 1
+great proposal, would suggest get an advisor for the ASL aspects but otherwise seems very well thought out and researched.
+
+Expert Review 2
+Think Inclusion Conferencing App is a revolutionary AI-powered tool to bridge the gap of digital access for speech-disabled individuals. The app's strongest aspect is real-time two-way interpretation, which enables easy participation in online meetings. The scheme is also better on the bases of scalability, economics, and ethics, which facilitates easier large-scale adoption and fair representation for different linguistic and cultural sign language groups. But concerns such as providing high accuracy over many sign languages and seamless integration with the mainstream meeting platforms with no added inconvenience need to be remembered. The voting community needs to decide if the funding sought is adequate to enhance the AI models and deploy them successfully at scale
+
+Read More
+Expert Review 3
+The proposal for a translation service to and from sign language seems well thought out technically. The team behind the proposal runs an apparently successful internet remote staffing service which is evidence that the service is addressing a real need in the remote working ecosystem and
+
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie PolicyProjects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+Project Lovelock – Living Libraries Network (LLN)
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+River Roberts
+Project Owner
+Project Lovelock – Living Libraries Network (LLN)
+Project for
+BGI Nexus 1
+Funding Awarded
+$48,888 USD
+Funding Pools
+Beneficial AI Solutions
+Milestones
+0 / 4 Completed
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (0)
+Project Team
+Overview
+Inspired by the late great scientist & futurist, James Lovelock, who developed scientific instruments for NASA and that noticed how Earth functions as a self-regulating system. The vision for Project Lovelock is to create a global network of AI enhanced physical Library spaces that make it easy, insightful and inspiring to understand Earth’s ever evolving self-regulating systems on a bio-regional scale and how to better live in harmony with them. This environmentally integrated network empowers landowners, local councils and communities with crucial information for improved long term decision-making.
+
+Proposal Description
+How Our Project Will Contribute To The Growth Of The Decentralized AI Platform
+Project aligns with BGI Nexus's mission of fostering beneficial AI applications that contribute to the flourishing of humans, societies, and the biosphere by:
+
+Creating spaces to promote data commons and collective intelligence for bio regions
+Promoting sustainable development and regenerative practices
+
+Empowering local communities with knowledge and tools for better long term decision-making
+
+Fostering biodiversity and ecosystem restoration
+
+Encouraging community participation and citizen science
+
+Our Team
+Library Designer & Director - 15 years+ experience design and real estate investment
+
+Project Manager - 18 years of agile project management & hosting workshops
+
+AI Engineer - 18 months in agentic design and prompt engineering  
+
+Hardware / Sensor Lead - 12 years of deploying environmental sensors and building a regenerative village
+
+Community Co-ordinator - 8 years of data aggregation and ecosystem mapping
+
+AI services (New or Existing)
+Audio Scene Recognition
+Type
+Existing AI Service (View)
+
+How it will be used
+To verify bio-regional bio diversity of insects and birds.
+
+Generative LM
+Type
+Existing AI Service (View)
+
+How it will be used
+NLP interface with the bio-regional data sets
+
+Satellite Insights
+Type
+Existing AI Service (View)
+
+How it will be used
+Integrating Satellite Data with pre-existing weather data sets and local sensor input to provide recommendations.
+
+The core problem we are aiming to solve
+According to recent reports from the UNEP, over 115 countries have committed to restoring approximately 1 billion hectares of farms, forests, and pastures globally.  Several challenges exist:
+
+1. Information accessibility: Data related to land use, environmental protection, and forestry is often scattered across various platforms
+
+2. Technical complexity: Land restoration involves multiple disciplines and diverse stakeholders, making it challenging for landowners and communities to make informed decisions.
+
+3. Evolving climate trends: Climate change is creating new dynamics that communities need to adapt to
+
+4. Adapting to local: Translating national restoration pledges into local contexts
+
+Our specific solution to this problem
+OneEarth's approach of focusing on bio-regional solutions rather than global or national scales offers a promising way to address the challenges in land regeneration and sustainable agriculture. Building on this concept, Project Lovelock presents an interactive space that combines AI technology with localized knowledge to empower communities and landowners in making informed land management decisions.
+
+Project Lovelock: AI-Powered Living Libraries
+Project Lovelock introduces a network of mobile structures serving as AI-powered Living Libraries, designed to be repositories of bio-regional knowledge. These environmentally integrated libraries aim to provide crucial information for improved long-term decision-making in land management.
+
+Key Features
+Bio-regional Focus: The Living Libraries are tailored to specific bioregions, offering localized information and solutions.
+
+AI-Powered Interface: An advanced AI system processes and presents complex data in an accessible format for users.
+
+Mobile Infrastructure: The libraries are designed to be easily movable and adaptable to different locations within and across bioregions.
+
+Comprehensive Knowledge Base: The system integrates information on crop and tree planting, hydrological cycles, and climatic patterns specific to each bioregion.
+
+ 
+
+Project details
+Key Impact
+
+Improved understanding of relevant bioregional ecological processes for communities and decision-makers
+
+Improved capability for climate adaptation at a bioregional level
+
+Community engagement with the natural environment through outreach and citizen science activities
+
+Simple model that can be easily replicable for broad reach
+
+ 
+
+Key Objectives
+
+Build a comprehensive bio-regional knowledge base
+
+Improve long term decisions making for land management
+
+Ensure accessibility through mobility and user friendly interfaces
+
+Integrate with natural settings
+
+Deploy advanced data collection methods
+
+Utilize AI-powered analysis
+
+Inspire the next generation of land stewards
+
+Increased community engagement and collaboration in environmental stewardship
+
+ 
+
+Key Features
+
+Mobile Public Infrastructure: A custom-designed mobile unit that can be easily transported and deployed within the bio-region, equipped with digital resources, reading materials, interactive displays, and workspaces.
+
+Environmental Sensors: A network of strategically placed sensors to monitor environmental parameters such as soil health, water and air quality, temperature, humidity, and biodiversity indicators.
+
+Resource Database: A comprehensive collection of pre-existing ecological, agricultural, climate, and resource data sets, including physical books, digital archives, interactive maps, and customized reports.
+
+AI Integration: AI algorithms for data processing, pattern identification, insight generation, resource allocation and environmental change prediction.
+
+Community Engagement: Workshops, training sessions, and citizen science initiatives to promote community participation in data collection and environmental monitoring.
+
+
+
+
+Core AI Components  
+
+The project heavily relies on AI technologies for:
+
+ 
+
+Data processing and analysis of environmental sensor inputs and pre existing data sets
+
+Integrating and analyzing satellite data and aerial imagery
+
+Neural networks analyzing species migration patterns  
+
+Federated learning system for privacy-preserving regional analysis  
+
+Local resource allocation / co-ordination recommendations  
+
+Generating insights and predicting environmental changes
+
+Natural language query system and data visualization tools
+
+Continuous learning and improvement of the system's accuracy and effectiveness
+
+Needed resources
+AI engineers - UI
+
+ 
+
+Existing resources
+Existing hardware and physical library infrastructure
+
+Open Source Licensing
+GNU GPL - GNU General Public License
+Mihaela Ulieru
+
+Show Less
+Activity Summary
+Milestones
+4
+Total
+Discussion
+0
+Total Comments
+Reviews
+4
+Total Posted
+Project Team
+3
+Total People
+Proposal Video
+
+Introducing ProjectLovelock
+1 April 2025
+Group Expert Rating (Final)
+Overall
+
+4.3
+    
+Impact
+
+4.2
+Innovation
+
+4.3
+Project Lovelock stands out with its fresh approach to biodiversity conservation. Particularly impressive is how it addresses real-world challenges like agricultural land finance while promoting ecological awareness. It aligns well with the BGI vision: responsible AI use that empowers communities to become better stewards of their environments. There are some questions about scalability, as it offers local solutions; implementations need customizing for different bioregions, and maintaining user engagement. However, this project has genuine potential to transform how communities interact with their local environments. It's a smart concept that could make a real difference if executed well.
+
+Read More
+Expert Review 1
+Project Lovelock offers a futuristic concept that fuses AI technology with green sustainability by providing mobile, AI-based libraries that can facilitate knowledge-sharing at the bio-regional level. Its strengths are its congruence with the mission of BGI, responsible use of AI, and possibility of fueling intelligent land stewardship. Weaknesses, however, are the risk of duplicating the model, sustaining interest, and guaranteeing data accuracy in a wide range of ecological settings. The citizen voters will also need to determine if the project architecture can support long-term use and if its compatibility with AI can cause positive, localized intelligence.
+
+Read More
+Expert Review 2
+Addressing the challenges of land finance in agriculture is a new concept for me. The solution of this project is completely aligned with the goals of BGI Nexus. However, the solution of this project is local in nature, it needs to be tailored to each specific bioregion.
+
+Expert Review 3
+This project, if carried through through to its true potential, could truly change the destructive ways in which we live. It goes far beyond the usual jargon and approaches to biodiversity protection, by bringing awareness in a most practical and impactful manner.
+
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie PolicyProjects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+Project Lovelock – Living Libraries Network (LLN)
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+River Roberts
+Project Owner
+Project Lovelock – Living Libraries Network (LLN)
+Project for
+BGI Nexus 1
+Funding Awarded
+$48,888 USD
+Funding Pools
+Beneficial AI Solutions
+Milestones
+0 / 4 Completed
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (0)
+Project Team
+Overview
+Inspired by the late great scientist & futurist, James Lovelock, who developed scientific instruments for NASA and that noticed how Earth functions as a self-regulating system. The vision for Project Lovelock is to create a global network of AI enhanced physical Library spaces that make it easy, insightful and inspiring to understand Earth’s ever evolving self-regulating systems on a bio-regional scale and how to better live in harmony with them. This environmentally integrated network empowers landowners, local councils and communities with crucial information for improved long term decision-making.
+
+Proposal Description
+How Our Project Will Contribute To The Growth Of The Decentralized AI Platform
+Project aligns with BGI Nexus's mission of fostering beneficial AI applications that contribute to the flourishing of humans, societies, and the biosphere by:
+
+Creating spaces to promote data commons and collective intelligence for bio regions
+Promoting sustainable development and regenerative practices
+
+Empowering local communities with knowledge and tools for better long term decision-making
+
+Fostering biodiversity and ecosystem restoration
+
+Encouraging community participation and citizen science
+
+Our Team
+Library Designer & Director - 15 years+ experience design and real estate investment
+
+Project Manager - 18 years of agile project management & hosting workshops
+
+AI Engineer - 18 months in agentic design and prompt engineering  
+
+Hardware / Sensor Lead - 12 years of deploying environmental sensors and building a regenerative village
+
+Community Co-ordinator - 8 years of data aggregation and ecosystem mapping
+
+AI services (New or Existing)
+Audio Scene Recognition
+Type
+Existing AI Service (View)
+
+How it will be used
+To verify bio-regional bio diversity of insects and birds.
+
+Generative LM
+Type
+Existing AI Service (View)
+
+How it will be used
+NLP interface with the bio-regional data sets
+
+Satellite Insights
+Type
+Existing AI Service (View)
+
+How it will be used
+Integrating Satellite Data with pre-existing weather data sets and local sensor input to provide recommendations.
+
+The core problem we are aiming to solve
+According to recent reports from the UNEP, over 115 countries have committed to restoring approximately 1 billion hectares of farms, forests, and pastures globally.  Several challenges exist:
+
+1. Information accessibility: Data related to land use, environmental protection, and forestry is often scattered across various platforms
+
+2. Technical complexity: Land restoration involves multiple disciplines and diverse stakeholders, making it challenging for landowners and communities to make informed decisions.
+
+3. Evolving climate trends: Climate change is creating new dynamics that communities need to adapt to
+
+4. Adapting to local: Translating national restoration pledges into local contexts
+
+Our specific solution to this problem
+OneEarth's approach of focusing on bio-regional solutions rather than global or national scales offers a promising way to address the challenges in land regeneration and sustainable agriculture. Building on this concept, Project Lovelock presents an interactive space that combines AI technology with localized knowledge to empower communities and landowners in making informed land management decisions.
+
+Project Lovelock: AI-Powered Living Libraries
+Project Lovelock introduces a network of mobile structures serving as AI-powered Living Libraries, designed to be repositories of bio-regional knowledge. These environmentally integrated libraries aim to provide crucial information for improved long-term decision-making in land management.
+
+Key Features
+Bio-regional Focus: The Living Libraries are tailored to specific bioregions, offering localized information and solutions.
+
+AI-Powered Interface: An advanced AI system processes and presents complex data in an accessible format for users.
+
+Mobile Infrastructure: The libraries are designed to be easily movable and adaptable to different locations within and across bioregions.
+
+Comprehensive Knowledge Base: The system integrates information on crop and tree planting, hydrological cycles, and climatic patterns specific to each bioregion.
+
+ 
+
+Project details
+Key Impact
+
+Improved understanding of relevant bioregional ecological processes for communities and decision-makers
+
+Improved capability for climate adaptation at a bioregional level
+
+Community engagement with the natural environment through outreach and citizen science activities
+
+Simple model that can be easily replicable for broad reach
+
+ 
+
+Key Objectives
+
+Build a comprehensive bio-regional knowledge base
+
+Improve long term decisions making for land management
+
+Ensure accessibility through mobility and user friendly interfaces
+
+Integrate with natural settings
+
+Deploy advanced data collection methods
+
+Utilize AI-powered analysis
+
+Inspire the next generation of land stewards
+
+Increased community engagement and collaboration in environmental stewardship
+
+ 
+
+Key Features
+
+Mobile Public Infrastructure: A custom-designed mobile unit that can be easily transported and deployed within the bio-region, equipped with digital resources, reading materials, interactive displays, and workspaces.
+
+Environmental Sensors: A network of strategically placed sensors to monitor environmental parameters such as soil health, water and air quality, temperature, humidity, and biodiversity indicators.
+
+Resource Database: A comprehensive collection of pre-existing ecological, agricultural, climate, and resource data sets, including physical books, digital archives, interactive maps, and customized reports.
+
+AI Integration: AI algorithms for data processing, pattern identification, insight generation, resource allocation and environmental change prediction.
+
+Community Engagement: Workshops, training sessions, and citizen science initiatives to promote community participation in data collection and environmental monitoring.
+
+
+
+
+Core AI Components  
+
+The project heavily relies on AI technologies for:
+
+ 
+
+Data processing and analysis of environmental sensor inputs and pre existing data sets
+
+Integrating and analyzing satellite data and aerial imagery
+
+Neural networks analyzing species migration patterns  
+
+Federated learning system for privacy-preserving regional analysis  
+
+Local resource allocation / co-ordination recommendations  
+
+Generating insights and predicting environmental changes
+
+Natural language query system and data visualization tools
+
+Continuous learning and improvement of the system's accuracy and effectiveness
+
+Needed resources
+AI engineers - UI
+
+ 
+
+Existing resources
+Existing hardware and physical library infrastructure
+
+Open Source Licensing
+GNU GPL - GNU General Public License
+Mihaela Ulieru
+
+Show Less
+Activity Summary
+Milestones
+4
+Total
+Discussion
+0
+Total Comments
+Reviews
+4
+Total Posted
+Project Team
+3
+Total People
+Proposal Video
+
+Introducing ProjectLovelock
+1 April 2025
+Group Expert Rating (Final)
+Overall
+
+4.3
+    
+Impact
+
+4.2
+Innovation
+
+4.3
+Project Lovelock stands out with its fresh approach to biodiversity conservation. Particularly impressive is how it addresses real-world challenges like agricultural land finance while promoting ecological awareness. It aligns well with the BGI vision: responsible AI use that empowers communities to become better stewards of their environments. There are some questions about scalability, as it offers local solutions; implementations need customizing for different bioregions, and maintaining user engagement. However, this project has genuine potential to transform how communities interact with their local environments. It's a smart concept that could make a real difference if executed well.
+
+Read More
+Expert Review 1
+Project Lovelock offers a futuristic concept that fuses AI technology with green sustainability by providing mobile, AI-based libraries that can facilitate knowledge-sharing at the bio-regional level. Its strengths are its congruence with the mission of BGI, responsible use of AI, and possibility of fueling intelligent land stewardship. Weaknesses, however, are the risk of duplicating the model, sustaining interest, and guaranteeing data accuracy in a wide range of ecological settings. The citizen voters will also need to determine if the project architecture can support long-term use and if its compatibility with AI can cause positive, localized intelligence.
+
+Read More
+Expert Review 2
+Addressing the challenges of land finance in agriculture is a new concept for me. The solution of this project is completely aligned with the goals of BGI Nexus. However, the solution of this project is local in nature, it needs to be tailored to each specific bioregion.
+
+Expert Review 3
+This project, if carried through through to its true potential, could truly change the destructive ways in which we live. It goes far beyond the usual jargon and approaches to biodiversity protection, by bringing awareness in a most practical and impactful manner.
+
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie PolicyProjects
+ 
+Program
+ 
+Updates
+ 
+SingularityNET
+ Search
+ Login Signup
+Project Lovelock – Living Libraries Network (LLN)
+chevron-icon
+Back
+Top
+chevron-icon
+project-presentation-img
+user-profile-img
+River Roberts
+Project Owner
+Project Lovelock – Living Libraries Network (LLN)
+Project for
+BGI Nexus 1
+Funding Awarded
+$48,888 USD
+Funding Pools
+Beneficial AI Solutions
+Milestones
+0 / 4 Completed
+Project Updates
+Original Proposal
+Milestones & Budget
+Discussion (0)
+Project Team
+Overview
+Inspired by the late great scientist & futurist, James Lovelock, who developed scientific instruments for NASA and that noticed how Earth functions as a self-regulating system. The vision for Project Lovelock is to create a global network of AI enhanced physical Library spaces that make it easy, insightful and inspiring to understand Earth’s ever evolving self-regulating systems on a bio-regional scale and how to better live in harmony with them. This environmentally integrated network empowers landowners, local councils and communities with crucial information for improved long term decision-making.
+
+Proposal Description
+How Our Project Will Contribute To The Growth Of The Decentralized AI Platform
+Project aligns with BGI Nexus's mission of fostering beneficial AI applications that contribute to the flourishing of humans, societies, and the biosphere by:
+
+Creating spaces to promote data commons and collective intelligence for bio regions
+Promoting sustainable development and regenerative practices
+
+Empowering local communities with knowledge and tools for better long term decision-making
+
+Fostering biodiversity and ecosystem restoration
+
+Encouraging community participation and citizen science
+
+Our Team
+Library Designer & Director - 15 years+ experience design and real estate investment
+
+Project Manager - 18 years of agile project management & hosting workshops
+
+AI Engineer - 18 months in agentic design and prompt engineering  
+
+Hardware / Sensor Lead - 12 years of deploying environmental sensors and building a regenerative village
+
+Community Co-ordinator - 8 years of data aggregation and ecosystem mapping
+
+AI services (New or Existing)
+Audio Scene Recognition
+Type
+Existing AI Service (View)
+
+How it will be used
+To verify bio-regional bio diversity of insects and birds.
+
+Generative LM
+Type
+Existing AI Service (View)
+
+How it will be used
+NLP interface with the bio-regional data sets
+
+Satellite Insights
+Type
+Existing AI Service (View)
+
+How it will be used
+Integrating Satellite Data with pre-existing weather data sets and local sensor input to provide recommendations.
+
+The core problem we are aiming to solve
+According to recent reports from the UNEP, over 115 countries have committed to restoring approximately 1 billion hectares of farms, forests, and pastures globally.  Several challenges exist:
+
+1. Information accessibility: Data related to land use, environmental protection, and forestry is often scattered across various platforms
+
+2. Technical complexity: Land restoration involves multiple disciplines and diverse stakeholders, making it challenging for landowners and communities to make informed decisions.
+
+3. Evolving climate trends: Climate change is creating new dynamics that communities need to adapt to
+
+4. Adapting to local: Translating national restoration pledges into local contexts
+
+Our specific solution to this problem
+OneEarth's approach of focusing on bio-regional solutions rather than global or national scales offers a promising way to address the challenges in land regeneration and sustainable agriculture. Building on this concept, Project Lovelock presents an interactive space that combines AI technology with localized knowledge to empower communities and landowners in making informed land management decisions.
+
+Project Lovelock: AI-Powered Living Libraries
+Project Lovelock introduces a network of mobile structures serving as AI-powered Living Libraries, designed to be repositories of bio-regional knowledge. These environmentally integrated libraries aim to provide crucial information for improved long-term decision-making in land management.
+
+Key Features
+Bio-regional Focus: The Living Libraries are tailored to specific bioregions, offering localized information and solutions.
+
+AI-Powered Interface: An advanced AI system processes and presents complex data in an accessible format for users.
+
+Mobile Infrastructure: The libraries are designed to be easily movable and adaptable to different locations within and across bioregions.
+
+Comprehensive Knowledge Base: The system integrates information on crop and tree planting, hydrological cycles, and climatic patterns specific to each bioregion.
+
+ 
+
+Project details
+Key Impact
+
+Improved understanding of relevant bioregional ecological processes for communities and decision-makers
+
+Improved capability for climate adaptation at a bioregional level
+
+Community engagement with the natural environment through outreach and citizen science activities
+
+Simple model that can be easily replicable for broad reach
+
+ 
+
+Key Objectives
+
+Build a comprehensive bio-regional knowledge base
+
+Improve long term decisions making for land management
+
+Ensure accessibility through mobility and user friendly interfaces
+
+Integrate with natural settings
+
+Deploy advanced data collection methods
+
+Utilize AI-powered analysis
+
+Inspire the next generation of land stewards
+
+Increased community engagement and collaboration in environmental stewardship
+
+ 
+
+Key Features
+
+Mobile Public Infrastructure: A custom-designed mobile unit that can be easily transported and deployed within the bio-region, equipped with digital resources, reading materials, interactive displays, and workspaces.
+
+Environmental Sensors: A network of strategically placed sensors to monitor environmental parameters such as soil health, water and air quality, temperature, humidity, and biodiversity indicators.
+
+Resource Database: A comprehensive collection of pre-existing ecological, agricultural, climate, and resource data sets, including physical books, digital archives, interactive maps, and customized reports.
+
+AI Integration: AI algorithms for data processing, pattern identification, insight generation, resource allocation and environmental change prediction.
+
+Community Engagement: Workshops, training sessions, and citizen science initiatives to promote community participation in data collection and environmental monitoring.
+
+
+
+
+Core AI Components  
+
+The project heavily relies on AI technologies for:
+
+ 
+
+Data processing and analysis of environmental sensor inputs and pre existing data sets
+
+Integrating and analyzing satellite data and aerial imagery
+
+Neural networks analyzing species migration patterns  
+
+Federated learning system for privacy-preserving regional analysis  
+
+Local resource allocation / co-ordination recommendations  
+
+Generating insights and predicting environmental changes
+
+Natural language query system and data visualization tools
+
+Continuous learning and improvement of the system's accuracy and effectiveness
+
+Needed resources
+AI engineers - UI
+
+ 
+
+Existing resources
+Existing hardware and physical library infrastructure
+
+Open Source Licensing
+GNU GPL - GNU General Public License
+Mihaela Ulieru
+
+Show Less
+Activity Summary
+Milestones
+4
+Total
+Discussion
+0
+Total Comments
+Reviews
+4
+Total Posted
+Project Team
+3
+Total People
+Proposal Video
+
+Introducing ProjectLovelock
+1 April 2025
+Group Expert Rating (Final)
+Overall
+
+4.3
+    
+Impact
+
+4.2
+Innovation
+
+4.3
+Project Lovelock stands out with its fresh approach to biodiversity conservation. Particularly impressive is how it addresses real-world challenges like agricultural land finance while promoting ecological awareness. It aligns well with the BGI vision: responsible AI use that empowers communities to become better stewards of their environments. There are some questions about scalability, as it offers local solutions; implementations need customizing for different bioregions, and maintaining user engagement. However, this project has genuine potential to transform how communities interact with their local environments. It's a smart concept that could make a real difference if executed well.
+
+Read More
+Expert Review 1
+Project Lovelock offers a futuristic concept that fuses AI technology with green sustainability by providing mobile, AI-based libraries that can facilitate knowledge-sharing at the bio-regional level. Its strengths are its congruence with the mission of BGI, responsible use of AI, and possibility of fueling intelligent land stewardship. Weaknesses, however, are the risk of duplicating the model, sustaining interest, and guaranteeing data accuracy in a wide range of ecological settings. The citizen voters will also need to determine if the project architecture can support long-term use and if its compatibility with AI can cause positive, localized intelligence.
+
+Read More
+Expert Review 2
+Addressing the challenges of land finance in agriculture is a new concept for me. The solution of this project is completely aligned with the goals of BGI Nexus. However, the solution of this project is local in nature, it needs to be tailored to each specific bioregion.
+
+Expert Review 3
+This project, if carried through through to its true potential, could truly change the destructive ways in which we live. It goes far beyond the usual jargon and approaches to biodiversity protection, by bringing awareness in a most practical and impactful manner.
+
+A global community building a network of decentralized and beneficial AI services.
+
+    
+SingularityNET Collaborative Initiative
+Product
+Awarded Projects
+Open Proposals
+Round Summaries
+Create Proposal
+RFPs
+Program
+About
+Rules & Guidelines
+Schedule
+Events Calender
+FAQ
+Contact
+Resources
+All Updates
+News & Announcements
+Awarded Project Updates
+Proposal Presentations
+Governance Updates
+Townhall Recordings
+SingularityNET
+AI Marketplace
+AI Publisher
+Developer Portal
+Quickstart Guide
+© 2025 Deep Funding
+
+Terms Privacy Cookie Policy
